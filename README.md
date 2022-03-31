@@ -56,7 +56,7 @@ In your preferred editor, make sure indentation is set to "4 spaces".
 Don't Delete any Files or IT MAY CRASH THE PROGRAM!
 
 ## Run using Python3.8+
-1. Clone or download repositiory: https://github.com/arevish/announcementgenerator.git
+1. Clone or download repositiory: https://github.com/arevish/Announcement-Generator.git
 2. In source folder, run `python3 'indirail.py'` to start program, optionally, run with `--help` argument to see other runtime options.
 
 ### ThankYou!
