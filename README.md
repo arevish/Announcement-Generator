@@ -30,11 +30,10 @@ generateAnnouncement("announce_train.xlsx")
 ```
 
 ### DEMO
-video
+https://user-images.githubusercontent.com/91308138/161117320-7de26072-d8bd-44f6-bf14-5ed4672deccd.mp4
 
 Excel sheet
-
-<img src="sheet.png" height="150" width="450">
+![sheet](https://user-images.githubusercontent.com/91308138/161117399-870e4192-1d0a-4e26-9779-83d5d5b33c24.PNG)
 
 ## PRE-REQUISITES
 Your laptop with 3.6.x (onwards) installed.
